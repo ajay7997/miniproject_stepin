@@ -79,5 +79,29 @@ The LMS leaks outward into new spaces, spaces which it didn’t inhabit before, 
 ### Threats:
 Libraries now send and retrieve data from databases to help better manage inventory and the like, but some libraries don’t have the right data encryption practices in place. This can often lead to lost data and sometimes, the data easily obtainable by criminals.
 
+## HIGH LEVEL REQUIREMENTS:
+
+|RID|DESCRIPTION|STATUS|
+|:--|:----------|:-----|
+|HLR1|C LANGUAGE|IMPLEMENTED|
+|HLR2|OS WINDOWS|IMPLEMENTED|
+|HLR3|OS LINUX|IMPLEMENTED|
+|HLR4|HARDDISK|IMPLEMENTED|
+|HLR5|RAM 4GB|IMPLEMENTED|
+
+## LOW LEVEL REQUIREMENTS:
+
+|RID|DESCRIPTION|STATUS|
+|:--|:----------|:-----|
+|LLR1|ADD BOOKS|IMPLEMENTED|
+|LLR2|DELETE BOOKS|IMPLEMENTED|
+|LLR3|SEARCH BOOKS|IMPLEMENTED|
+|LLR4|ISSUE BOOKS|IMPLEMENTED|
+|LLR5|VIEW BOOKS|IMPLEMENTED|
+
+
+
+
+
 
 
