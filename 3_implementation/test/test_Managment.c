@@ -8,7 +8,7 @@ void tearDown(){}
 
 
 void test_addition(void){
-    TEST_ASSERT_EQUAL(pass,addition(125, "Algo", "Deepanshu"));
+    TEST_ASSERT_EQUAL(pass,addition(125, "Ajay", "Dragon"));
 }
 
 void test_viewbook(void){
