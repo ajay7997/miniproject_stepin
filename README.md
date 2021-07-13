@@ -6,7 +6,7 @@ A Miniproject for Stepin  with C Programming
 
 |Build|Code Quality|Git Inspector|Unity|
 |:----|:-----------|:------------|:----|
-|[![C/C++ CI - Build Status](https://github.com/ajay7997/miniproject_stepin/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/ajay7997/miniproject_stepin/actions/workflows/c-cpp.yml)|[![Code Quality - Static Code - Cppcheck](https://github.com/ajay7997/miniproject_stepin/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/ajay7997/miniproject_stepin/actions/workflows/cppcheck.yml)||[![Unit Testing - Unity](https://github.com/ajay7997/miniproject_stepin/actions/workflows/unity.yml/badge.svg)](https://github.com/ajay7997/miniproject_stepin/actions/workflows/unity.yml)|
+|[![C/C++ CI - Build Status](https://github.com/ajay7997/miniproject_stepin/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/ajay7997/miniproject_stepin/actions/workflows/c-cpp.yml)|[![Code Quality - Static Code - Cppcheck](https://github.com/ajay7997/miniproject_stepin/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/ajay7997/miniproject_stepin/actions/workflows/cppcheck.yml)|[![Contribution Check - Git Inspector](https://github.com/ajay7997/miniproject_stepin/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/ajay7997/miniproject_stepin/actions/workflows/gitinspector.yml)|[![Unit Testing - Unity](https://github.com/ajay7997/miniproject_stepin/actions/workflows/unity.yml/badge.svg)](https://github.com/ajay7997/miniproject_stepin/actions/workflows/unity.yml)|
 
 
 
