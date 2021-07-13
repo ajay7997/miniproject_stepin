@@ -1,5 +1,5 @@
 # Name Of the Project
-PROJECT_NAME = Library Management System
+PROJECT_NAME = LMS
 
 #All Source code file
 SRC = main.c\
