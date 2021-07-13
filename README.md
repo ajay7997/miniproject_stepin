@@ -8,7 +8,9 @@ A Miniproject for Stepin  with C Programming
 |:----|:-----------|:------------|:----|:------------|
 |[![C/C++ CI - Build Status](https://github.com/ajay7997/miniproject_stepin/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/ajay7997/miniproject_stepin/actions/workflows/c-cpp.yml)|[![Code Quality - Static Code - Cppcheck](https://github.com/ajay7997/miniproject_stepin/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/ajay7997/miniproject_stepin/actions/workflows/cppcheck.yml)|[![Contribution Check - Git Inspector](https://github.com/ajay7997/miniproject_stepin/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/ajay7997/miniproject_stepin/actions/workflows/gitinspector.yml)|[![Unit Testing - Unity](https://github.com/ajay7997/miniproject_stepin/actions/workflows/unity.yml/badge.svg)](https://github.com/ajay7997/miniproject_stepin/actions/workflows/unity.yml)|[![CI-Coverage](https://github.com/ajay7997/miniproject_stepin/actions/workflows/gcov.yml/badge.svg)](https://github.com/ajay7997/miniproject_stepin/actions/workflows/gcov.yml)|
 ||[![Valgrind](https://github.com/ajay7997/miniproject_stepin/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/ajay7997/miniproject_stepin/actions/workflows/Valgrind.yml)||||
-
+||![](https://www.code-inspector.com/project/25089/score/svg)||||
+||![](https://www.code-inspector.com/project/25089/status/svg)||||
+||[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5b4bcc1362814fcdab701690f16827a4)](https://www.codacy.com/gh/ajay7997/miniproject_stepin/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ajay7997/miniproject_stepin&amp;utm_campaign=Badge_Grade)||||
 
 
 
