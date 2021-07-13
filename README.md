@@ -1,6 +1,17 @@
 # miniproject_stepin
 A Miniproject for Stepin  with C Programming
 
+
+# BADGES
+
+|Build|
+|:----|
+|[![C/C++ CI - Build Status](https://github.com/ajay7997/miniproject_stepin/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/ajay7997/miniproject_stepin/actions/workflows/c-cpp.yml)|
+
+
+
+
+
 # **LIBRARY MANAGEMENT SYSTEM**
 
 Library management is a project that manages and stores books information electronically according to students needs. The system helps both students and library manager to keep a constant track of all the books available in the library. It allows both the admin and the student to search for the desired book.
