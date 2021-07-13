@@ -24,6 +24,7 @@ void test_searchbook(void){
 
 void test_deletebook(void){
     TEST_ASSERT_EQUAL(pass,deletebook(125));
+}        
 
 void test_issuebook(void){
     TEST_ASSERT_EQUAL(pass,issuebook(125));
