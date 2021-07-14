@@ -1,4 +1,4 @@
-# miniproject_stepin
+# Miniproject_stepin
 A Miniproject for Stepin  with C Programming
 
 
@@ -32,3 +32,20 @@ This project “LIBRARY MANAGEMENT SYSTEM” gives us the complete information a
 |4_TestPlanAndOutput|Documents with test plans and outputs|
 |5_Report|Generated Report|
 |6_ImagesandVideos|All the images and program execution video|
+
+# ISSUE TRACKING
+|SF.ID|NAME|FEATURES|ISSUES RAISED|ISSUES RESOLVED|TOTAL TESTCASES|TOTAL TESTCASES PASSED|
+|:----|:---|:-------|:------------|:--------------|:--------------|:---------------------|
+|314272|POTHARAJU AJAY KUMAR|LIBRARY MANAGEMENT SYSTEM(ADD,SEARCH,ISSUE,DEL,VIEW)|3|3|5|5|
+
+# Challenges Faced and How Was It Overcome
+1.I have faced issues in file handling. so, I used strings.
+
+2.Updating and Deleting a file was overcame by using a temporary file to store data for some time.
+
+# Learning Resources
+1.tutorials point
+
+2.geeksforgeeks
+
+3.fUTURE SKILLS
