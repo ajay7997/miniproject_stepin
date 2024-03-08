@@ -1,5 +1,4 @@
-# Miniproject_stepin
-A Miniproject for Stepin  with C Programming
+A Miniproject LIBRARY MANAGEMENT SYSTEM  with C Programming
 
 
 # BADGES
